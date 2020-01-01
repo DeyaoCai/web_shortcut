@@ -1,5 +1,7 @@
+`npm install web_shortcut`
 ```
-shortCut.init(
+import web_shortcut from 'web_shortcut';
+web_shortcut.init(
   inputDom,
   const fnsMap = {
     common: {
